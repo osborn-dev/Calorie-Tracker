@@ -1,7 +1,7 @@
 import '@fortawesome/fontawesome-free/js/all';
 import { modal, collapse} from 'bootstrap';
 import CalorieTracker from './tracker';
-import { Meal, workout } from './items';
+import { Meal, Workout } from './items';
 import './css/bootstrap.css';
 import './css/style.css'
   
